@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v5.5.26">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-aether-provider-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-artifact-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-compat-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-core-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-embedder-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-model-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-model-builder-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-plugin-api-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-repository-metadata-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-settings-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Deepak_Naithani/library/apache-maven/apache-maven-3.0.5/lib/maven-settings-builder-3.0.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
